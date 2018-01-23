@@ -1,0 +1,31 @@
+@charset "utf-8";
+.container .row .img-responsive {
+    margin: auto;
+}
+.navbar-header .navbar-brand .img-responsive {
+    margin-top: -40px;
+}
+
+body {
+    font-family: Curly, "Brush Script MT", "Brush Script Std", "cursive";
+    font-style: normal;
+    font-weight: 400;
+    font-size: large;
+}
+.panel.panel-default .panel-heading .panel-title.text-center.title {
+    font-size: xx-large;
+}
+.container .row.blank {
+    margin-bottom: 60px;
+}
+
+.container {
+    margin-top: -130px;
+}
+.container .row.heading {
+    margin-bottom: 15px;
+}
+
+.row .col-lg-12 p {
+    font-size: x-large;
+}
