@@ -29,3 +29,7 @@ body {
 .row .col-lg-12 p {
     font-size: x-large;
 }
+
+.panel-footer div button {
+    font-size: x-large;
+}
