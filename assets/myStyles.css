@@ -34,3 +34,8 @@ body {
 .panel-footer div button {
     font-size: x-large;
 }
+
+
+.row:last-of-type {
+  margin-bottom: 20px;
+}
