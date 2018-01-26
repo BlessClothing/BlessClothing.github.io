@@ -3,9 +3,6 @@
 .container .row .img-responsive {
     margin: auto;
 }
-.navbar-header .navbar-brand .img-responsive {
-    margin-top: -40px;
-}
 
 body {
     font-family: 'Merienda', cursive;
