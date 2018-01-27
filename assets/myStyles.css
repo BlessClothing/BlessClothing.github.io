@@ -1,7 +1,8 @@
+
 @charset "utf-8";
 @import url('https://fonts.googleapis.com/css?family=Merienda');
 
-.container .row .img-responsive {
+.container-fluid .row .img-responsive {
   margin: auto;
 }
 
@@ -16,15 +17,15 @@ body {
   font-size: xx-large;
 }
 
-.container .row.blank {
+.container-fluid .row.blank {
   margin-bottom: 60px;
 }
 
-.container {
+.container-fluid {
   margin-top: -130px;
 }
 
-.container .row.heading {
+.container-fluid .row.heading {
   margin-bottom: 15px;
 }
 
