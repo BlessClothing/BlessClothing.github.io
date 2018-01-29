@@ -36,9 +36,6 @@ body {
 .panel-footer div button {
   font-size: x-large;
 }
-.panel-footer {
-  height: 150px;
-}
 
 .row:last-of-type {
   margin-bottom: 20px;
